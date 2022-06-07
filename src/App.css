@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.loadingspinner{
+  text-align: center;
+  color: yellow;
+  display: flex;
+}
